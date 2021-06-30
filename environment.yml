@@ -1,0 +1,21 @@
+name: myenv
+channels:
+  - conda-forge
+  - open3d-admin
+dependencies:
+  - python=3.8
+  - flask
+  - pdal
+  - python-pdal
+  - open3d
+  - pandas
+  - scikit-learn
+  - shapely
+  - ffmpeg-python
+  - matplotlib
+  - tqdm
+  - pyyaml
+  - addict
+  - plyfile
+  - trimesh
+  - setuptools
